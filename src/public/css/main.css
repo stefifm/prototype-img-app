@@ -1,0 +1,35 @@
+/* fluid 3 columns Masonry */
+.grid-sizer,
+.grid-item { width: 30%; }
+
+/* CARDS */
+
+.card{
+    background: #A1FFCE;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FAFFD1, #A1FFCE);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FAFFD1, #A1FFCE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    margin-bottom: 20px;
+}
+
+.card-body .form-group {
+    margin: 10px;
+    padding: 5px;
+}
+
+
+/* NAVIGATION */
+
+.navbar {
+    background: #16BFFD;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #CB3066, #16BFFD);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #CB3066, #16BFFD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+.navbar .navbar-brand, 
+.nav-link{
+    color: #ffff;
+}
+
