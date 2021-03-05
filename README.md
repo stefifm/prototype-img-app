@@ -12,4 +12,4 @@ Prototipo de aplicacion web para subir imágenes
 - Nodejs and his middleware Multer
 - Animate cards: (https://animate.style/#accessibility)
 - Masonry using Initialize in HTML and Element sizing from Masonry Options (https://masonry.desandro.com/)
-![Screenshot](/images/Element-Sizing-Masonry · Options.jpg)
+
